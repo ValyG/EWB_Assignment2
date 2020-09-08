@@ -5,7 +5,8 @@ const Schema = Mongoose.Schema;
 
 const pharmacySchema = new Schema({
   name: String,
-  description: String
+  description: String,
+  category: String,
 });
 
 module.exports = Mongoose.model('Create', pharmacySchema);

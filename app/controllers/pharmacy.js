@@ -33,6 +33,7 @@ const Pharmacy = {
         const newCreate = new Create({
           name: data.name,
           description: data.description,
+          category: data.category,
 
         });
         await newCreate.save();

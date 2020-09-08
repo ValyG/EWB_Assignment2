@@ -24,63 +24,64 @@
     "_model": "Create",
     "one": {
       "name": "Grant Pharmacy",
-      "description": "Main Street, Ennicorthy"
+      "description": "Main Street, Ennicorthy",
+      "category": "24/7, 7 days a week"
 
     },
     "two": {
       "name": "Slaney Pharmacy",
-      "description": "Slaney Court, Ennicorthy"
-
+      "description": "Slaney Court, Ennicorthy",
+      "category": "09:00-17:30, Monday to Friday"
     },
     "three": {
       "name": " Farell's Pharmacy",
-      "description": "16 Templeshannon"
-
+      "description": "16 Templeshannon",
+      "category": "24/7, 7 days a week"
     },
     "four": {
       "name": "Clonard Pharmacy",
-      "description": "Clonard Road, Wexford"
-
+      "description": "Clonard Road, Wexford",
+      "category": "09:00-17:30, Monday to Friday"
     },
     "five": {
       "name": "Selskar Pharmacy",
-      "description": "28 Selskar St, Wexford"
-
+      "description": "28 Selskar St, Wexford",
+      "category": "09:00-17:30, Monday to Friday"
     },
     "six": {
       "name": "The Faythe Pharmacy",
-      "description": "The Faythe, Wexford"
-
+      "description": "The Faythe, Wexford",
+      "category": "24/7, 7 days a week"
     },
     "seven": {
       "name": "Carroll's Pharmacy",
-      "description": "24 Ballybricken, Waterford"
-
+      "description": "24 Ballybricken, Waterford",
+      "category": "24/7, 7 days a week"
     },
     "eight": {
       "name": "Phelans Pharmacy",
-      "description": "33 Michael St, Waterford"
-
+      "description": "33 Michael St, Waterford",
+      "category": "09:00-17:30, Monday to Friday"
     },
     "nine": {
       "name": "Burke's Pharmacy",
-      "description": "Hypercentre, Morgan St, Waterford"
-
+      "description": "Hypercentre, Morgan St, Waterford",
+      "category": "24/7, 7 days a week"
     },
     "ten": {
       "name": "City Pharmacy Ltd",
-      "description": "Dublin 2, Dublin"
-
+      "description": "Dublin 2, Dublin",
+      "category": "24/7, 7 days a week"
     },
     "eleven": {
       "name": "Hickey's Pharmacy",
-      "description": " Dublin 1, Dublin"
-
+      "description": " Dublin 1, Dublin",
+      "category": "24/7, 7 days a week"
     },
     "twelve": {
       "name": "Foley's Chemist",
-      "description": "Dublin 1"
-
+      "description": "Dublin 1",
+      "category": "24/7, 7 days a week"
     }
   }
 }

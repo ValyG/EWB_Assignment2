@@ -11,7 +11,7 @@ async function seed() {
   var seeder = require('mais-mongoose-seeder')(Mongoose);
   const data = require('./seed-data.json');
   const Create = require('./create.js');
-  const User = require('./user.js')
+  const User = require('./user.js');
 
   const dbData = await seeder.seed(data, { dropDatabase: false, dropCollections: true });
   console.log(dbData);
