@@ -10,6 +10,13 @@ const Created = {
       return created;
     }
   },
+  findOne: {
+    auth: false,
+    handler: async function(request, h) {
+      const created = await Create.findOne({ _id: request.params.id });
+      return created;
+    }
+  },
 };
 
 module.exports = Created;
