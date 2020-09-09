@@ -92,4 +92,7 @@
     </state>
     <state width="1293" height="380" key="GridCell.Tab.0.right/0.23.1440.835/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1599598617381" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignment2$app_test_created_api_test_js.dat" NAME="app/test/created-api-test.js Coverage Results" MODIFIED="1599601936470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
 </project>
