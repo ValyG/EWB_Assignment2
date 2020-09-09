@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599565885166</updated>
-      <workItem from="1599565886280" duration="16618000" />
+      <workItem from="1599565886280" duration="19980000" />
     </task>
     <servers />
   </component>
@@ -75,21 +75,28 @@
       <screen x="-3440" y="23" width="3440" height="1417" />
     </state>
     <state x="-1769" y="441" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.835/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1599579461350" />
-    <state width="1293" height="380" key="GridCell.Tab.0.bottom" timestamp="1599598617382">
-      <screen x="-3440" y="23" width="3440" height="1417" />
+    <state width="1038" height="216" key="GridCell.Tab.0.bottom" timestamp="1599601935106">
+      <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state width="1293" height="380" key="GridCell.Tab.0.bottom/0.23.1440.835/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1599598617382" />
-    <state width="1293" height="380" key="GridCell.Tab.0.center" timestamp="1599598617380">
-      <screen x="-3440" y="23" width="3440" height="1417" />
+    <state width="1293" height="380" key="GridCell.Tab.0.bottom/0.23.1440.835/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1599599088527" />
+    <state width="1038" height="216" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1599601935106" />
+    <state width="1038" height="216" key="GridCell.Tab.0.center" timestamp="1599601935106">
+      <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state width="1293" height="380" key="GridCell.Tab.0.center/0.23.1440.835/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1599598617380" />
-    <state width="1293" height="380" key="GridCell.Tab.0.left" timestamp="1599598617379">
-      <screen x="-3440" y="23" width="3440" height="1417" />
+    <state width="1293" height="380" key="GridCell.Tab.0.center/0.23.1440.835/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1599599088525" />
+    <state width="1038" height="216" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1599601935106" />
+    <state width="1038" height="216" key="GridCell.Tab.0.left" timestamp="1599601935105">
+      <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state width="1293" height="380" key="GridCell.Tab.0.left/0.23.1440.835/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1599598617379" />
-    <state width="1293" height="380" key="GridCell.Tab.0.right" timestamp="1599598617381">
-      <screen x="-3440" y="23" width="3440" height="1417" />
+    <state width="1293" height="380" key="GridCell.Tab.0.left/0.23.1440.835/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1599599088525" />
+    <state width="1038" height="216" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1599601935105" />
+    <state width="1038" height="216" key="GridCell.Tab.0.right" timestamp="1599601935106">
+      <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state width="1293" height="380" key="GridCell.Tab.0.right/0.23.1440.835/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1599598617381" />
+    <state width="1293" height="380" key="GridCell.Tab.0.right/0.23.1440.835/-3440.23.3440.1417@-3440.23.3440.1417" timestamp="1599599088526" />
+    <state width="1038" height="216" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1599601935106" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignment2$app_test_created_api_test_js.dat" NAME="app/test/created-api-test.js Coverage Results" MODIFIED="1599601936470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
